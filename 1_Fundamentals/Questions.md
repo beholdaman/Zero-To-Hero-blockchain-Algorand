@@ -1,11 +1,11 @@
 ### Use these questions to gauge yourself and to understand where to improve yourself.
 
-1. **What is a blockchain?**
+1. [[Cosa e' una Blockchain|What is a blockchain?]]
 2. **How does a blockchain differ from a traditional database?**
 3. **What are the key components of a blockchain?**
 4. **What is the purpose of decentralization in blockchain technology?**
 5. **How do consensus mechanisms work in a blockchain?**
-6. **What is the difference between Proof of Work (PoW) and Proof of Stake (PoS)?**
+6. [[Proof of work e Proof of Stake| What is the difference between Proof of Work (PoW) and Proof of Stake (PoS)? ]]
 7. **What is a cryptographic hash function, and why is it important in blockchain?**
 8. **What role do nodes play in a blockchain network?**
 9. **What is a peer-to-peer (P2P) network, and how does it apply to blockchain?**
